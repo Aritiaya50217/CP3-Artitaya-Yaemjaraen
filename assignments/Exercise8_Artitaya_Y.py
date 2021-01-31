@@ -15,6 +15,7 @@ if Username == "oil" and Password == "50217" :
         pricePepsi = 15
         total = quantityPepsi * pricePepsi
         print(total,"THB")
-    
+else:
+    print("Error !!")
 
 
