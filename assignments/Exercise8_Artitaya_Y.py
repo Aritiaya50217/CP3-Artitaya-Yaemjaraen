@@ -2,8 +2,8 @@ Username = input("username : ")
 Password = input("password : ")
 if Username == "oil" and Password == "50217" :
     print("Welcome !!")
-    print("1. น้ำเปล่า 10 THB")
-    print("2. น้ำอัดลม 15 THB")
+    print("1. Water 10 THB")
+    print("2. Pepsi 15 THB")
     userSelection = int(input())
     if userSelection == 1 :
         quantityWater = int(input("QuantityWater : "))
