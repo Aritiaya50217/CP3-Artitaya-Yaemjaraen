@@ -25,7 +25,7 @@ Customer3.age = 23
 Customer3.addCart()
 
 Customer4 = Customer()
-Customer4.name = "Wanida"
-Customer4.lastName = "Suwannakit"
+Customer4.name = "W"
+Customer4.lastName = "S"
 Customer4.age = 27
 Customer4.addCart()
